@@ -13,7 +13,8 @@ import {Toolkit} from '@docker/actions-toolkit/lib/toolkit';
 import * as context from './context';
 
 
-const banner = `assdffgghhhhhhewwqwsdsdff
+const banner = `
+assdffgghhhhhhewwqwsdsdff
 ██╗   ██╗ ██████╗ ██╗   ██╗     █████╗ ██████╗ ███████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
 ╚██╗ ██╔╝██╔═══██╗██║   ██║    ██╔══██╗██╔══██╗██╔════╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
  ╚████╔╝ ██║   ██║██║   ██║    ███████║██████╔╝█████╗      ███████║███████║██║     █████╔╝ █████╗  ██║  ██║
